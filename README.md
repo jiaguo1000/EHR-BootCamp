@@ -5,4 +5,3 @@ Find details in this [post](https://www.jiaguo1000.com/lab1/). I was working as 
 ## Reference
 
 * Guo, J., Yuan, C., Shang, N., Zheng, T., Bello, N. A., Kiryluk, K., Weng, C., & Wang, S. (2021). Similarity-based health risk prediction using domain fusion and electronic health records data. Journal of biomedical informatics, 116, 103711. https://doi.org/10.1016/j.jbi.2021.103711.
-* Wang, B., Mezlini, A. M., Demir, F., Fiume, M., Tu, Z., Brudno, M., ... & Goldenberg, A. (2014). Similarity network fusion for aggregating data types on a genomic scale. Nature methods, 11(3), 333-337. https://doi.org/10.1038/nmeth.2810.
